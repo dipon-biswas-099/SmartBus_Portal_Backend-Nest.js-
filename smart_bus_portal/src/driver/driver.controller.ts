@@ -26,7 +26,7 @@ export class DriverController {
   @Post('file')
   /*@UsePipes(
     new ValidationPipe({
-      whitelist: true,
+      
       forbidNonWhitelisted: true,
     }),
   )*/
